@@ -15,7 +15,8 @@ My name is Parker, I am currently pursuing my undergraduate and accelerated mast
 - 🖥 Computer Vision
 - 🤖 Robotics
 - 🌐 Software Engineering
-- 🧠 Machine Learning
+- 🖥️ Machine Learning
+- 🧠 Aritifical Intelligence
 
 ## Get in Touch
 
