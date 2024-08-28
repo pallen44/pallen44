@@ -2,17 +2,17 @@
 
 ## About Me
 
-My name is Parker, I am currently pursuing my undergraduate and accelerated master's degree in Computer Science at the University of Nebraska-Lincoln (UNL). I'm passionate about the intersection of mathematics and computer science and am an aspiring CV/ML/AI Engineer.
+My name is Parker, I am currently pursuing my undergraduate and accelerated master's degree in Computer Science at the University of Nebraska-Lincoln (UNL). I'm passionate about the intersection of mathematics and computer science and am an aspiring Software Engineer.
 
 ## What I'm Up To
 
 - 📚 Currently studying Computer Science at UNL.
-- 💻 Working on projects and research to hone my skills in computer vision and machine learning.
+- 💻 Working on projects and research to hone my skills in app development, machine learning, and embedded systems.
 - 🔍 Actively seeking internships and opportunities to gain practical experience in the field.
 
 ## My Interests
 
-- 🖥 Computer Vision
+- 🖥 Embedded Systems
 - 🤖 Robotics
 - 🌐 Software Engineering
 - 🖥️ Machine Learning
