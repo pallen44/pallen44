@@ -7,13 +7,13 @@ My name is Parker, I am currently pursuing my undergraduate and accelerated mast
 ## What I'm Up To
 
 - 📚 Currently studying Computer Science at UNL.
-- 💻 Working on projects and research to hone my skills in app development, machine learning, and embedded systems.
+- 💻 Working on projects and research to hone my skills in data science, machine learning, and modeling and simulation.
 - 🔍 Actively seeking internships and opportunities to gain practical experience in the field.
 
 ## My Interests
 
-- 🖥 Embedded Systems
-- 🤖 Robotics
+- 🖥 Data Science
+- 🤖 Modeling and Simulation
 - 🌐 Software Engineering
 - 🖥️ Machine Learning
 - 🧠 Aritifical Intelligence
